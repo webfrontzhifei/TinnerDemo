@@ -6,7 +6,7 @@
   "author": "webfrontzhifei <906831852@qq.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "gulp scripts"
+    "dev": "gulp"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
